@@ -1,6 +1,6 @@
 # UTM_on_mac
 
-## Install Brew 
+## 1. Install Brew 
 You can install Homebrew easily on mac:
 * open a terminal
 * Type or copy/paste this code and then press "return": 
@@ -13,7 +13,7 @@ You can install Homebrew easily on mac:
 
 This script will install brew and Xcode. You'll need to Agree to install xcode.
 
-## Install UTM
+## 2. Install UTM
 
 To install UTM using brew:
 ```Shell
@@ -22,7 +22,25 @@ brew install --cask utm
 
 ![Install_UTM](./videos/install_utm.gif)
 
+## 3. Install Crystal Fetch
 
+To install Crystal Fetch using brew:
+```Shell
+brew install --cask crystalfetch
+```
+
+![Install_Crystal_Fetch](./videos/install_crystalfetch.gif)
+
+## 4. Download Windows11 and Setup Your VM
+
+![Download Windows 11 (ARM)](./videos/get_win11_vm_setup.gif)
+
+## 5. Setup Win11
+
+![Setup Win11](./videos/installing_win11.gif)
+
+## 6. Finishing Up
+![Finish Setup Win11](./videos/finishing_up.gif)
 
 ## References:
 
