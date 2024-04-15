@@ -6,7 +6,7 @@ You can install Homebrew easily on mac:
 * Type or copy/paste this code: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 * Press enter.
 
-[[https://github.com/amnea/UTM_on_mac/videos/install_brew.gif|Install Brew]] 
+[[https://github.com/amnea/UTM_on_mac/videos/install_brew.gif|Install_Brew]] 
 
 This script will install brew and Xcode. You'll need to Agree to install xcode.
 
