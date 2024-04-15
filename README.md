@@ -46,5 +46,6 @@ brew install --cask crystalfetch
 
 [Homebrew](https://brew.sh/) - is a package manager for MacOS, used to easily install apps and programs from the web.
 
-
 [UTM](https://mac.getutm.app/) - UTM is a GUI wrapper for KVM. UTM allows a user to easily create and edit virtual machines on MacOS.
+
+[Crystal Fetch](https://github.com/TuringSoftware/CrystalFetch) - automation for downloading Windows 10/11
